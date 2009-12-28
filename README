@@ -1,0 +1,4 @@
+Check out somewhere on your HD and run the 'install.sh' file in a shell.
+This should link some custom templates into your "~/Library/Application
+Support/Developer/Shared/Xcode" folder. You may have to restart Xcode
+for the changes to take effect.

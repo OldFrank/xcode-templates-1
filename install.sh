@@ -9,5 +9,5 @@ for f in "File Templates" ; do
     # Where to link the files.
     echo "Linking: $src"
     echo "     to: $base"
-	ln -sf "$src" "$base"
+    ln -s "$src" "$base"
 done
